@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="260" height="260" viewBox="0 0 260 260">
+  <defs>
+    <pattern id="pattern-on-blue-b" width="6.5" height="6.5" x="-6.5" y="-6.5" patternUnits="userSpaceOnUse">
+      <use transform="scale(.5)" xlink:href="#pattern-on-blue-a"/>
+    </pattern>
+    <image id="pattern-on-blue-a" width="13" height="13" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAYAAABy6+R8AAAABGdBTUEAALGPC/xhBQAAAYRpQ0NQSUNDIFByb2ZpbGUAACiRlZE7SANBEIb/i4Q08VEEEUE4UFJFiRFEQYTkChFSxJBCRYt75QHxclzWqGgpaBmwEG0U01hYaxuw1UpRBLGxsQ/aaDhn76KJiIo/HPPd7OzO7L+A51g2zbynC1gymJWciomzc/Oi7xFe9MGRrBbNaCIR5/wRv+rlBgKPV4P8rO/rv8qv6UUVEALETDUtRrxN3L/CTM4nxAGLhiKucs64fM1ZcfnJqUklJeI34o6SmqG9Hj9x2NByBvEE8aSalTXiDeKQ0lKfaWF3Hke9kpzPKZbMdE3k1kiFfMEqmrKq//OSf4npq4xHqWCuWblMlolRclIXpw11KCRGwsPjAH8Xt7o24/gtdF80c4VDYOwZaCs3c8oucLYF9Nw1cwMHQOcmcHquLlulRnsB1N31rPEvfBJ+YtdXR6NA5RZIrQPxS2BvHwimqc8CkGinPE3PFpufq2J6JOKe5Y8B3gfbrgUB3w5QL9v265Ft1yt0n3ugarwDQE9voLrzzHwAAAApSURBVCgVY2QgAfwHAhKUMzCANIAA0Zogykc14A+w4RBKIB+SlDSg6gGE92OeEvjQ5wAAAABJRU5ErkJggg=="/>
+  </defs>
+  <rect width="260" height="260" fill="url(#pattern-on-blue-b)" fill-rule="evenodd" opacity=".15"/>
+</svg>
